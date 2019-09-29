@@ -2,7 +2,7 @@
   "last": "Default",
   "backgroundType": "DEFAULT",
   "commonDirType": "DEFAULT",
-  "commonpath": "/Users/kazukiamakawa/Library/Application Support/minecraft",
+  "commonpath": ".minecraft",
   "hasProxy": false,
   "hasProxyAuth": false,
   "proxyType": "HTTP",
@@ -63,7 +63,7 @@
         "gameDirType": 0,
         "defaultJavaPath": ""
       },
-      "gameDir": "/Users/kazukiamakawa/Library/Application Support/minecraft",
+      "gameDir": ".minecraft",
       "useRelativePath": false,
       "selectedMinecraftVersion": ""
     }
