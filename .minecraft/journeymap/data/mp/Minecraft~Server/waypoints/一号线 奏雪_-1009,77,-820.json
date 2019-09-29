@@ -1,0 +1,18 @@
+{
+  "id": "一号线 奏雪_-1009,77,-820",
+  "name": "一号线 奏雪",
+  "icon": "waypoint-normal.png",
+  "x": -1009,
+  "y": 77,
+  "z": -820,
+  "r": 186,
+  "g": 90,
+  "b": 41,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

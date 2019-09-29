@@ -1,0 +1,18 @@
+{
+  "id": "水龙敬(南区)_933,68,513",
+  "name": "水龙敬(南区)",
+  "icon": "waypoint-normal.png",
+  "x": 933,
+  "y": 68,
+  "z": 513,
+  "r": 50,
+  "g": 252,
+  "b": 147,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "西だんご蛋駅_540,73,3167",
+  "name": "西だんご蛋駅",
+  "icon": "waypoint-normal.png",
+  "x": 540,
+  "y": 73,
+  "z": 3167,
+  "r": 178,
+  "g": 197,
+  "b": 73,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

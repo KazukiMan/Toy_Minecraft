@@ -1,0 +1,18 @@
+{
+  "id": "北だんご駅_500,75,2874",
+  "name": "北だんご駅",
+  "icon": "waypoint-normal.png",
+  "x": 500,
+  "y": 75,
+  "z": 2874,
+  "r": 208,
+  "g": 216,
+  "b": 214,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "KA西博物館駅 市鐵博物館西_-1860,67,-92",
+  "name": "KA西博物館駅 市鐵博物館西",
+  "icon": "waypoint-normal.png",
+  "x": -1860,
+  "y": 67,
+  "z": -92,
+  "r": 95,
+  "g": 106,
+  "b": 43,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

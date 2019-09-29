@@ -1,0 +1,18 @@
+{
+  "id": "一号线 公主坟东_-1509,56,-663",
+  "name": "一号线 公主坟东",
+  "icon": "waypoint-normal.png",
+  "x": -1509,
+  "y": 56,
+  "z": -663,
+  "r": 64,
+  "g": 88,
+  "b": 195,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "スミレ公園駅_512,69,3010",
+  "name": "スミレ公園駅",
+  "icon": "waypoint-normal.png",
+  "x": 512,
+  "y": 69,
+  "z": 3010,
+  "r": 139,
+  "g": 182,
+  "b": 44,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

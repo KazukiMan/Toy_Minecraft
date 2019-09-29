@@ -1,0 +1,18 @@
+{
+  "id": "星川空港特別場_-277,68,2704",
+  "name": "星川空港特別場",
+  "icon": "waypoint-normal.png",
+  "x": -277,
+  "y": 68,
+  "z": 2704,
+  "r": 229,
+  "g": 167,
+  "b": 172,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

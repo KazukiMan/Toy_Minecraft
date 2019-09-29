@@ -1,0 +1,18 @@
+{
+  "id": "新だんご駅_-45,74,3473",
+  "name": "新だんご駅",
+  "icon": "waypoint-normal.png",
+  "x": -45,
+  "y": 74,
+  "z": 3473,
+  "r": 23,
+  "g": 169,
+  "b": 169,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

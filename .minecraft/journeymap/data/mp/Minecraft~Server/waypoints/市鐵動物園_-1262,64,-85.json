@@ -1,0 +1,18 @@
+{
+  "id": "市鐵動物園_-1262,64,-85",
+  "name": "市鐵動物園",
+  "icon": "waypoint-normal.png",
+  "x": -1262,
+  "y": 64,
+  "z": -85,
+  "r": 175,
+  "g": 131,
+  "b": 51,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

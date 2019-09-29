@@ -1,0 +1,18 @@
+{
+  "id": "KA 万神空港駅_-1878,76,299",
+  "name": "KA 万神空港駅",
+  "icon": "waypoint-normal.png",
+  "x": -1878,
+  "y": 76,
+  "z": 299,
+  "r": 53,
+  "g": 128,
+  "b": 225,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

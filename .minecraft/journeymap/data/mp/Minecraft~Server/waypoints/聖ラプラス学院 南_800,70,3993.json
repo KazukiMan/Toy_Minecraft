@@ -1,0 +1,18 @@
+{
+  "id": "聖ラプラス学院 南_800,70,3993",
+  "name": "聖ラプラス学院 南",
+  "icon": "waypoint-normal.png",
+  "x": 800,
+  "y": 70,
+  "z": 3993,
+  "r": 109,
+  "g": 201,
+  "b": 50,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

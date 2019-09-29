@@ -1,0 +1,18 @@
+{
+  "id": "天空之城 生存挑战_522,228,1545",
+  "name": "天空之城 生存挑战",
+  "icon": "waypoint-normal.png",
+  "x": 522,
+  "y": 228,
+  "z": 1545,
+  "r": 147,
+  "g": 9,
+  "b": 67,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

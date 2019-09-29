@@ -1,0 +1,18 @@
+{
+  "id": "だんご蛋 南_670,69,3374",
+  "name": "だんご蛋 南",
+  "icon": "waypoint-normal.png",
+  "x": 670,
+  "y": 69,
+  "z": 3374,
+  "r": 249,
+  "g": 252,
+  "b": 50,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

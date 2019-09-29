@@ -1,0 +1,18 @@
+{
+  "id": "魔導学院駅_280,69,3203",
+  "name": "魔導学院駅",
+  "icon": "waypoint-normal.png",
+  "x": 280,
+  "y": 69,
+  "z": 3203,
+  "r": 249,
+  "g": 195,
+  "b": 249,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

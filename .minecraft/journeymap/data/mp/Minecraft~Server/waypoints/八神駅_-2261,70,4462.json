@@ -1,0 +1,18 @@
+{
+  "id": "八神駅_-2261,70,4462",
+  "name": "八神駅",
+  "icon": "waypoint-normal.png",
+  "x": -2261,
+  "y": 70,
+  "z": 4462,
+  "r": 99,
+  "g": 83,
+  "b": 248,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

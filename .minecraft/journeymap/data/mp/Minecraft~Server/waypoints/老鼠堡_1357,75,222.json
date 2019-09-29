@@ -1,0 +1,18 @@
+{
+  "id": "老鼠堡_1357,75,222",
+  "name": "老鼠堡",
+  "icon": "waypoint-normal.png",
+  "x": 1357,
+  "y": 75,
+  "z": 222,
+  "r": 184,
+  "g": 139,
+  "b": 124,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

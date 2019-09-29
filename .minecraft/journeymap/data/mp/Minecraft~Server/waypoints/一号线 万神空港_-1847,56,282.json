@@ -1,0 +1,18 @@
+{
+  "id": "一号线 万神空港_-1847,56,282",
+  "name": "一号线 万神空港",
+  "icon": "waypoint-normal.png",
+  "x": -1847,
+  "y": 56,
+  "z": 282,
+  "r": 170,
+  "g": 70,
+  "b": 34,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

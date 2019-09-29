@@ -1,0 +1,18 @@
+{
+  "id": "星川駅_-85,74,2592",
+  "name": "星川駅",
+  "icon": "waypoint-normal.png",
+  "x": -85,
+  "y": 74,
+  "z": 2592,
+  "r": 63,
+  "g": 109,
+  "b": 162,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

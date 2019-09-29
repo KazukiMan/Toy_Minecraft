@@ -1,0 +1,18 @@
+{
+  "id": "聖ラプラス 理学部_706,68,3964",
+  "name": "聖ラプラス 理学部",
+  "icon": "waypoint-normal.png",
+  "x": 706,
+  "y": 68,
+  "z": 3964,
+  "r": 198,
+  "g": 211,
+  "b": 66,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

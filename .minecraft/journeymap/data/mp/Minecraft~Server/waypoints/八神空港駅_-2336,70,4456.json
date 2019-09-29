@@ -1,0 +1,18 @@
+{
+  "id": "八神空港駅_-2336,70,4456",
+  "name": "八神空港駅",
+  "icon": "waypoint-normal.png",
+  "x": -2336,
+  "y": 70,
+  "z": 4456,
+  "r": 132,
+  "g": 68,
+  "b": 252,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

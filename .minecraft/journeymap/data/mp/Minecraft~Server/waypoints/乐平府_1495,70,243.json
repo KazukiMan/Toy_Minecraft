@@ -1,0 +1,18 @@
+{
+  "id": "乐平府_1495,70,243",
+  "name": "乐平府",
+  "icon": "waypoint-normal.png",
+  "x": 1495,
+  "y": 70,
+  "z": 243,
+  "r": 94,
+  "g": 149,
+  "b": 86,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

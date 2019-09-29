@@ -1,0 +1,18 @@
+{
+  "id": "制御委員会駅_-3,74,3237",
+  "name": "制御委員会駅",
+  "icon": "waypoint-normal.png",
+  "x": -3,
+  "y": 74,
+  "z": 3237,
+  "r": 57,
+  "g": 184,
+  "b": 112,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

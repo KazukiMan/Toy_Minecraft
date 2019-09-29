@@ -1,0 +1,18 @@
+{
+  "id": "一号线 百果东_780,71,917",
+  "name": "一号线 百果东",
+  "icon": "waypoint-normal.png",
+  "x": 780,
+  "y": 71,
+  "z": 917,
+  "r": 59,
+  "g": 97,
+  "b": 196,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

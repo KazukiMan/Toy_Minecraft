@@ -1,0 +1,18 @@
+{
+  "id": "二号线 博物馆_-1554,46,-113",
+  "name": "二号线 博物馆",
+  "icon": "waypoint-normal.png",
+  "x": -1554,
+  "y": 46,
+  "z": -113,
+  "r": 247,
+  "g": 158,
+  "b": 180,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

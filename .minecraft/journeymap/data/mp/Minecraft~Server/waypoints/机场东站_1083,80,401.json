@@ -1,0 +1,18 @@
+{
+  "id": "机场东站_1083,80,401",
+  "name": "机场东站",
+  "icon": "waypoint-normal.png",
+  "x": 1083,
+  "y": 80,
+  "z": 401,
+  "r": 136,
+  "g": 4,
+  "b": 164,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

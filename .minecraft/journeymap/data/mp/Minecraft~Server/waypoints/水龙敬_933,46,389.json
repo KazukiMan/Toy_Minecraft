@@ -1,0 +1,18 @@
+{
+  "id": "水龙敬_933,46,389",
+  "name": "水龙敬",
+  "icon": "waypoint-normal.png",
+  "x": 933,
+  "y": 46,
+  "z": 389,
+  "r": 133,
+  "g": 192,
+  "b": 240,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

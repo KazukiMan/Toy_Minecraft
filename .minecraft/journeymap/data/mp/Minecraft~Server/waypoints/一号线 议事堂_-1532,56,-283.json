@@ -1,0 +1,18 @@
+{
+  "id": "一号线 议事堂_-1532,56,-283",
+  "name": "一号线 议事堂",
+  "icon": "waypoint-normal.png",
+  "x": -1532,
+  "y": 56,
+  "z": -283,
+  "r": 100,
+  "g": 116,
+  "b": 19,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
