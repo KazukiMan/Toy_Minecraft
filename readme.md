@@ -20,7 +20,7 @@
 
 请下载并解压下述文件
 
-https://github.com/KazukiMan/toy_minecraft/archive/v1.0.zip
+https://github.com/KazukiMan/toy_minecraft/archive/v1.0.2.zip
 
 
 ### 第二步：安装java环境
