@@ -1,0 +1,75 @@
+[01:00:07] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[01:00:07] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[01:00:07] [Client thread/INFO] [?] Version: JourneyMap 1.10.2-5.5.2, built with Forge 12.18.3.2316
+Forge: 12.18.3.2511
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.2, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=2, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Circle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=2}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.2, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=2, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=false, showPets=false, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=false, showMobHeading=false, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=2}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.2, mobDisplay=Small Dots, zoomLevel=0, showPlayers=false, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=false, showAnimals=true, showMobHeading=true, showKeys=false, showWaypointLabels=true, locationFormatVerbose=true, showMobs=false, showPets=true, fontScale=2, preferredMapType=day}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.2, createDeathpoints=false, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=1, showTexture=true, managerEnabled=true, beaconEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.2, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=10000, showGrid=true, showEntityNames=true, enabled=true, googleMapApiDomain=.com, preferredMapType=day}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.2, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.2, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=true, renderDistanceSurfaceMax=5, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=true, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.2, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=Stronghold, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
+[01:00:07] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[01:00:07] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[01:00:07] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[01:00:10] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[01:00:11] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[01:00:11] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[01:00:11] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[01:00:11] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[01:00:11] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[01:00:11] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[01:00:11] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[01:00:11] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[01:00:11] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[01:00:11] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
+[01:00:12] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 71
+[01:00:12] [Client thread/WARN] [WebServer] Port 10000 already in use
+[01:00:12] [Client thread/INFO] [WebServer] Webserver will use port 10010 for this session
+[01:00:13] [Client thread/INFO] [WebServer] Started webserver on port 10010
+[01:00:13] [Client thread/DEBUG] [StatTimer] elapsed was slow: 3037.875015
+[01:00:13] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r§r3037.88§8ms§r
+[01:00:13] [JM-VersionCheck-3/ERROR] [VersionCheck$1] Could not check version URL
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:131) [VersionCheck$1.class:1.10.2-5.5.2]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_161]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_161]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_161]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1505) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1386) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:531) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
+	... 7 more
+[01:01:13] [Client thread/INFO] [ColorManager] Loaded color palette for 1382 blockstates in 589ms
+[01:04:09] [Client thread/INFO] [ColorManager] Loaded color palette for 1382 blockstates in 205ms
+[01:04:09] [Client thread/INFO] [ColorManager] Loaded color palette for 1382 blockstates in 89ms
+[01:04:09] [Client thread/INFO] [ColorManager] Loaded color palette for 1382 blockstates in 33ms
+[01:08:23] [Client thread/INFO] [ColorManager] Loaded color palette for 1382 blockstates in 51ms
+[01:08:23] [Client thread/INFO] [ColorManager] Loaded color palette for 1382 blockstates in 44ms
+[01:08:23] [Client thread/INFO] [ColorManager] Loaded color palette for 1382 blockstates in 53ms
+[01:08:23] [Client thread/INFO] [ColorManager] Loaded color palette for 1382 blockstates in 35ms
+[01:08:23] [Client thread/INFO] [ColorManager] Loaded color palette for 1382 blockstates in 36ms
+[01:08:42] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[01:08:42] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from /Users/kazukiamakawa/LocalCode/toy_minecraft/.minecraft/journeymap/data/mp/~Minecraft~/waypoints
+[01:08:42] [Client thread/INFO] [JourneymapClient] Mapping started in /Users/kazukiamakawa/LocalCode/toy_minecraft/.minecraft/journeymap/data/mp/~Minecraft~/DIM0. Memory: 2016MB total, 1198MB free 
+[01:08:42] [Client thread/INFO] [ChatLog] JourneyMap: 按下[J]键或打开浏览器并转到网址 http://localhost:10010 
+[01:08:45] [Client thread/INFO] [JourneymapClient] Mapping halted in /Users/kazukiamakawa/LocalCode/toy_minecraft/.minecraft/journeymap/data/mp/~Minecraft~/DIM0
+[01:10:18] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[01:10:19] [Client thread/INFO] [WaypointStore] Loaded 279 waypoints from /Users/kazukiamakawa/LocalCode/toy_minecraft/.minecraft/journeymap/data/mp/~Minecraft~/waypoints
+[01:10:19] [Client thread/INFO] [JourneymapClient] Mapping started in /Users/kazukiamakawa/LocalCode/toy_minecraft/.minecraft/journeymap/data/mp/~Minecraft~/DIM0. Memory: 2048MB total, 1331MB free 
+[01:10:31] [Client thread/INFO] [JourneymapClient] Mapping halted in /Users/kazukiamakawa/LocalCode/toy_minecraft/.minecraft/journeymap/data/mp/~Minecraft~/DIM0
+[01:12:37] [JM-svr-2/INFO] [WebServer] Stopped webserver without errors
