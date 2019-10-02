@@ -8,7 +8,7 @@
   "proxyType": "HTTP",
   "proxyPort": 0,
   "theme": "#5c6bc0",
-  "localization": "def",
+  "localization": "zh_CN",
   "downloadType": "bmclapi",
   "configurations": {
     "Default": {
@@ -23,7 +23,7 @@
         "javaDir": "",
         "precalledCommand": "",
         "serverIp": "",
-        "java": "Default",
+        "java": "1.8.0_161",
         "wrapper": "",
         "fullscreen": false,
         "noJVMArgs": false,
@@ -33,7 +33,7 @@
         "gameDir": "",
         "launcherVisibility": 1,
         "gameDirType": 0,
-        "defaultJavaPath": ""
+        "defaultJavaPath": "/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java"
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
