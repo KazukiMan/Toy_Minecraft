@@ -1,0 +1,18 @@
+{
+  "id": "要塞城门_841,79,889",
+  "name": "要塞城门",
+  "icon": "waypoint-normal.png",
+  "x": 841,
+  "y": 79,
+  "z": 889,
+  "r": 128,
+  "g": 128,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
