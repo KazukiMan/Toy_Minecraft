@@ -11,8 +11,6 @@
   "enable": true,
   "type": "Normal",
   "origin": "journeymap",
-  "dimensions": [
-    0
-  ],
+  "dimensions": [],
   "persistent": true
 }
