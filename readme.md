@@ -31,8 +31,7 @@ https://www.stlaplace.com/toy_craft.zip
 
 请下载并解压下述文件
 
-https://github.com/KazukiMan/toy_minecraft/archive/ver1.2.0-full.zip
-
+https://github.com/KazukiMan/toy_minecraft/archive/1.2.1.zip
 
 ### 第二步：安装java环境
 
