@@ -9,7 +9,7 @@
 3. 懒人包内含团子城全境地图，精简包没有
 
 有关懒人包和精简包的相同点
-1. 含有小地图插件的地图和接近350个记录点，方便你的游览
+1. 含有小地图插件的地图和接近470个记录点，方便你的游览
 
 2. 含有登陆服务器需要的全套mod，以及可以选用的材质包，光影
 
@@ -23,7 +23,6 @@
 
 这是玩具国Minecraft建设省的官方GitHub，这里将会提供完整的游戏安装及游玩说明。
 
-注意，全程不要使用代理/翻墙/ss/v2ray等……当然你要是作带来的问题自行解决（既然你有能力作安装一个mc应该没问题！）
 
 
 
@@ -50,7 +49,7 @@
 
 请下载并解压下述文件
 
-https://github.com/KazukiMan/toy_minecraft/archive/v1.2.0-tiny.zip
+https://github.com/KazukiMan/toy_minecraft/archive/v1.3.0-tiny.zip
 
 
 ### 第二步：安装java环境
