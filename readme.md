@@ -2,9 +2,9 @@
 
 # 本次升级版本：从20191118至20200219版本
 
-安装方法：升级包下载后删除 .minecraft/mods 然后将解压后的文件全部放到 .minecraft/ 文件夹下，遇到重复选择「替换」即可
+安装方法：升级包下载后将解压后的文件全部放到 .minecraft/ 文件夹下，遇到重复选择「替换」即可
 
-下载地址：https://github.com/KazukiMan/toy_minecraft/archive/ver1.3.1-update.zip
+下载地址：https://github.com/KazukiMan/toy_minecraft/archive/ver1.3.2-update.zip
 
 下载后和原文件夹合并即可
 
