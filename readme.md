@@ -31,13 +31,22 @@ https://www.stlaplace.com/toy_craft.zip
 
 请下载并解压下述文件
 
-https://github.com/KazukiMan/toy_minecraft/archive/1.2.1.zip
+https://github.com/KazukiMan/toy_minecraft/archive/1.3.0.zip
 
 ### 第二步：安装java环境
 
-请在下列网站中安装适合的java环境
+Windows 用户： https://javadl.oracle.com/webapps/download/AutoDL?BundleId=241536_1f5b5a70bf22433b84d0e960903adac8
 
-https://www.java.com/zh_CN/
+MacOS 用户： https://javadl.oracle.com/webapps/download/AutoDL?BundleId=241527_1f5b5a70bf22433b84d0e960903adac8
+
+Linux x64： https://javadl.oracle.com/webapps/download/AutoDL?BundleId=241526_1f5b5a70bf22433b84d0e960903adac8
+
+Linux x64 RPM： https://javadl.oracle.com/webapps/download/AutoDL?BundleId=241525_1f5b5a70bf22433b84d0e960903adac8
+
+（备用）Java Downloads for All Operating Systems： https://www.java.com/en/download/manual.jsp
+
+（在你的下载没有出现问题时请勿使用备用项，如果有问题请直接联系腐竹）
+
 
 
 ### 第三步：安装游戏关联
@@ -144,10 +153,24 @@ Windows 用户打开 HMCL-3.2.136.exe ，Unix 用户请打开 HMCL-3.2.136.jar �
 
 0. 移除了creeper可能引发接龙的bug(x)，移除了可能出现Herobrine的要素（x）
 
-1. 添加了服务器呢的快速传送
+1. 添加了服务器的快速传送
 
 2. 修正了小地图插件信标过多的问题，将默认信标的处理方式改为了关闭
 
+
+
+#### 20200219更新
+需要安装更新包
+
+0. 移除了creeper可能引发接龙的bug(x)，移除了可能出现Herobrine的要素（x）
+
+1. 追加了一个植物类mod和其引导mod，现在有更多的方块可以进行木建筑的建设了
+
+2. 追加了小地图的地点，现在的坐标点约有470个了
+
+3. 删除了地图中超过界限的范围
+
+4. 修正了readme中Java下载地址的问题
 
 
 ### 万神殿计划和团子纪念馆
